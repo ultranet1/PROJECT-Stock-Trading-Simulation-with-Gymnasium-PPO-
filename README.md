@@ -1,7 +1,6 @@
 ## Stock Trading Simulation with Gymnasium (PPO)
 
-This repository implements a reinforcement learning trading simulation using Gymnasium and Stable-Baselines3 (PPO) on Apple (AAPL) daily prices. It is inspired by and based on the DataCamp project “stock trading simulation with gymnasium” (`https://app.datacamp.com/learn/projects/2468`), but reproduced and extended in my own local environment with reusable code and results for portfolio strategy exploration.
-
+This repository implements a reinforcement learning trading simulation using Gymnasium and Stable-Baselines3 (PPO) on Apple (AAPL) daily prices. 
 ### What’s included
 - A runnable Jupyter notebook: `StockTradingRL.ipynb`
 - Data sample reference: `AAPL copy.csv` (Date, Close)
