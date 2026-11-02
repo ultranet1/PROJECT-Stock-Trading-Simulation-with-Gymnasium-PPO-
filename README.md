@@ -63,6 +63,4 @@ After running, you’ll find and can view these charts below:
 
 ### Attribution
 - Based on DataCamp’s “stock trading simulation with gymnasium” project: `https://app.datacamp.com/learn/projects/2468`
-- Re-implemented and extended locally to create a reusable baseline for data science portfolio strategy experiments..
-
-
+- Re-implemented and extended locally to create a reusable baseline for data science portfolio strategy experiments.
